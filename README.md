@@ -14,6 +14,15 @@
 - Hakkımızda sayfasını da bir card yapısı içine alın.
 - Bootstrap Dökümantasyonu'nu iyi inceleyip farklı elementleri denemeye çalışın.
 
+### Sitenin Fotografi
+
+![](https://github.com/rrob1n/frontend-bootstrap-demos/blob/main/project-images-for-md-file/Screenshot%20from%202023-03-03%2015-03-40.png?raw=true)
+
+#### Dosya Linkleri
+
+- [Anasayfa](https://github.com/rrob1n/frontend-bootstrap-demos/blob/main/odev1/odev1.html)
+- [Diziler](https://github.com/rrob1n/frontend-bootstrap-demos/blob/main/odev1/odev1-dizler.html)
+- [Hakkimizda](https://github.com/rrob1n/frontend-bootstrap-demos/blob/main/odev1/odev1-hakkimizda.html)
 
 ## Demo - 1 
 
@@ -25,6 +34,6 @@
 
  ![](https://github.com/rrob1n/frontend-bootstrap-demos/blob/main/project-images-for-md-file/Screenshot%20from%202023-03-01%2023-52-59.png?raw=true)
 
- #### Dosyanin Linki(leri)
+ #### Dosya Linkleri
 
  - [Demo-1](https://github.com/rrob1n/frontend-bootstrap-demos/blob/main/demo1/demo1.html)
